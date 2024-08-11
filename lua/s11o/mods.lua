@@ -14,7 +14,7 @@ vim.opt.relativenumber = true
 vim.opt.autoindent = true
 
 -- Clipboard
-	--uses the system cliboard (*) 
+	--uses the system cliboard (+) 
 vim.opt.clipboard = "unnamedplus"
 
 -- THeme
